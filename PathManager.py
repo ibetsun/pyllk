@@ -240,7 +240,6 @@ class cellObject:
         self.ind_y=iny
         self.picid=pid
 
-
 class gameComm:
     WINWIDTH = 880
     WINHEIGHT = 660
